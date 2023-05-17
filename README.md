@@ -1,8 +1,6 @@
 # Challenge ONE | Java | Back-end | Hotel Alura
 
-![Screenshot from 2023-04-27 17-59-13](https://user-images.githubusercontent.com/28877424/235012577-61ac9038-7e0c-4467-92c3-d5e628c5ee7c.png)
 
-Video YouTube: https://youtu.be/5mcbl6d-dYk
 
 ## El desafío presenta los siguientes retos:
 Se facilita la interfaz gráfica y el diagrama de base de datos del proyecto hotel, por parte de Alura.
